@@ -24,6 +24,6 @@
 
 ##### 演示示例：
 
-![screen_recording](https://github.com/liouyang/ChinaMapView/blob/main/video/screen_recording.gif)
+![](https://github.com/liouyang/ChinaMapView/blob/main/video/screen_recording.gif)
 
 
